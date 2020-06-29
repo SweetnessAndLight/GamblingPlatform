@@ -1,0 +1,5 @@
+D:\Workspaces\GamblingPlatform\SQLServerHelper\bin\Debug\SQLServerHelper.dll.config
+D:\Workspaces\GamblingPlatform\SQLServerHelper\bin\Debug\SQLServerHelper.dll
+D:\Workspaces\GamblingPlatform\SQLServerHelper\bin\Debug\SQLServerHelper.pdb
+D:\Workspaces\GamblingPlatform\SQLServerHelper\obj\Debug\SQLServerHelper.dll
+D:\Workspaces\GamblingPlatform\SQLServerHelper\obj\Debug\SQLServerHelper.pdb

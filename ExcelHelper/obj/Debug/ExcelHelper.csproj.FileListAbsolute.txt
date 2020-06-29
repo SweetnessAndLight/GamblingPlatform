@@ -1,0 +1,8 @@
+D:\Workspaces\GamblingPlatform\ExcelHelper\bin\Debug\ExcelHelper.dll
+D:\Workspaces\GamblingPlatform\ExcelHelper\bin\Debug\ExcelHelper.pdb
+D:\Workspaces\GamblingPlatform\ExcelHelper\obj\Debug\ExcelHelper.dll
+D:\Workspaces\GamblingPlatform\ExcelHelper\obj\Debug\ExcelHelper.pdb
+D:\Workspaces\GamblingPlatform\ExcelHelper\obj\Debug\ExcelHelper.csprojResolveAssemblyReference.cache
+D:\Workspaces\GamblingPlatform\ExcelHelper\bin\Debug\NPOI.dll
+D:\Workspaces\GamblingPlatform\ExcelHelper\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Workspaces\GamblingPlatform\ExcelHelper\bin\Debug\NPOI.xml

@@ -1,0 +1,9 @@
+﻿<Window x:Class="GamblingPlatform.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" Height="300" Width="300" ResizeMode="NoResize" 
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+d:\用户目录\documents\visual studio 2010\Projects\GamblingPlatform\GamblingPlatform\bin\Debug\GamblingPlatform.exe
+d:\用户目录\documents\visual studio 2010\Projects\GamblingPlatform\GamblingPlatform\bin\Debug\GamblingPlatform.pdb
+d:\用户目录\documents\visual studio 2010\Projects\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.Properties.Resources.resources
+d:\用户目录\documents\visual studio 2010\Projects\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.csproj.GenerateResource.Cache
+d:\用户目录\documents\visual studio 2010\Projects\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.exe
+d:\用户目录\documents\visual studio 2010\Projects\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.pdb
+d:\用户目录\documents\visual studio 2010\Projects\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.frmMain.resources
+D:\Projecet\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.exe
+D:\Projecet\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.pdb
+D:\Projecet\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.frmMain.resources
+D:\Projecet\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.Properties.Resources.resources
+D:\Projecet\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.csproj.GenerateResource.Cache
+D:\Projecet\GamblingPlatform\GamblingPlatform\bin\Debug\GamblingPlatform.exe
+D:\Projecet\GamblingPlatform\GamblingPlatform\bin\Debug\GamblingPlatform.pdb
+D:\Projecet\GamblingPlatform\GamblingPlatform\bin\Debug\DataManager.dll
+D:\Projecet\GamblingPlatform\GamblingPlatform\bin\Debug\DataManager.pdb
+D:\Projecet\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+d:\用户目录\documents\visual studio 2010\Projects\GamblingPlatform\DataManager\bin\Debug\DataManager.dll
+d:\用户目录\documents\visual studio 2010\Projects\GamblingPlatform\DataManager\bin\Debug\DataManager.pdb
+d:\用户目录\documents\visual studio 2010\Projects\GamblingPlatform\DataManager\obj\Debug\DataManager.dll
+d:\用户目录\documents\visual studio 2010\Projects\GamblingPlatform\DataManager\obj\Debug\DataManager.pdb
+D:\Projecet\GamblingPlatform\DataManager\bin\Debug\DataManager.dll
+D:\Projecet\GamblingPlatform\DataManager\bin\Debug\DataManager.pdb
+D:\Projecet\GamblingPlatform\DataManager\obj\Debug\DataManager.dll
+D:\Projecet\GamblingPlatform\DataManager\obj\Debug\DataManager.pdb
