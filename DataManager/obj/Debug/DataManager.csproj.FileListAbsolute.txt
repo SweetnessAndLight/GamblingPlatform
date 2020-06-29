@@ -6,3 +6,9 @@ D:\Projecet\GamblingPlatform\DataManager\bin\Debug\DataManager.dll
 D:\Projecet\GamblingPlatform\DataManager\bin\Debug\DataManager.pdb
 D:\Projecet\GamblingPlatform\DataManager\obj\Debug\DataManager.dll
 D:\Projecet\GamblingPlatform\DataManager\obj\Debug\DataManager.pdb
+D:\WorkSpace\GamblingPlatform\DataManager\bin\Debug\DataManager.dll
+D:\WorkSpace\GamblingPlatform\DataManager\bin\Debug\DataManager.pdb
+D:\WorkSpace\GamblingPlatform\DataManager\obj\Debug\DataManager.csprojAssemblyReference.cache
+D:\WorkSpace\GamblingPlatform\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+D:\WorkSpace\GamblingPlatform\DataManager\obj\Debug\DataManager.dll
+D:\WorkSpace\GamblingPlatform\DataManager\obj\Debug\DataManager.pdb

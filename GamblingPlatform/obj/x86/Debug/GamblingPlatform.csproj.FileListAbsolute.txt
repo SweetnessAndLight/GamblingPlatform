@@ -15,3 +15,15 @@ D:\Projecet\GamblingPlatform\GamblingPlatform\bin\Debug\GamblingPlatform.pdb
 D:\Projecet\GamblingPlatform\GamblingPlatform\bin\Debug\DataManager.dll
 D:\Projecet\GamblingPlatform\GamblingPlatform\bin\Debug\DataManager.pdb
 D:\Projecet\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.csprojResolveAssemblyReference.cache
+D:\WorkSpace\GamblingPlatform\GamblingPlatform\bin\Debug\GamblingPlatform.exe
+D:\WorkSpace\GamblingPlatform\GamblingPlatform\bin\Debug\GamblingPlatform.pdb
+D:\WorkSpace\GamblingPlatform\GamblingPlatform\bin\Debug\DataManager.dll
+D:\WorkSpace\GamblingPlatform\GamblingPlatform\bin\Debug\DataManager.pdb
+D:\WorkSpace\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.csprojAssemblyReference.cache
+D:\WorkSpace\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.frmMain.resources
+D:\WorkSpace\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.Properties.Resources.resources
+D:\WorkSpace\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.csproj.GenerateResource.cache
+D:\WorkSpace\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.csproj.CoreCompileInputs.cache
+D:\WorkSpace\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.csproj.CopyComplete
+D:\WorkSpace\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.exe
+D:\WorkSpace\GamblingPlatform\GamblingPlatform\obj\x86\Debug\GamblingPlatform.pdb
