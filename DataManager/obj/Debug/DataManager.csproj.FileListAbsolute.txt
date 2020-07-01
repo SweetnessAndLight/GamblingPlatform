@@ -12,3 +12,9 @@ D:\WorkSpace\GamblingPlatform\DataManager\obj\Debug\DataManager.csprojAssemblyRe
 D:\WorkSpace\GamblingPlatform\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
 D:\WorkSpace\GamblingPlatform\DataManager\obj\Debug\DataManager.dll
 D:\WorkSpace\GamblingPlatform\DataManager\obj\Debug\DataManager.pdb
+D:\PrivateDemo\GamblingPlatform\DataManager\bin\Debug\DataManager.dll
+D:\PrivateDemo\GamblingPlatform\DataManager\bin\Debug\DataManager.pdb
+D:\PrivateDemo\GamblingPlatform\DataManager\obj\Debug\DataManager.csprojAssemblyReference.cache
+D:\PrivateDemo\GamblingPlatform\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+D:\PrivateDemo\GamblingPlatform\DataManager\obj\Debug\DataManager.dll
+D:\PrivateDemo\GamblingPlatform\DataManager\obj\Debug\DataManager.pdb
